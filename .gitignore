@@ -3,4 +3,5 @@
 **/*.pkl
 **/.venv
 **/cifar10
+**/emnist
 .idea
